@@ -17,17 +17,20 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ##ScreenShots
+<p align="center">
+  <img src="https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/de4e719a-7e50-46de-9beb-266e4660cdbe" width="200" hight="500"/><br><br><br><br>
+  <img src="https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/c33fc457-b20f-496f-938c-ce663dc25cf9" width="200" hight="150"/>
+  <img src="https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/11c47646-744c-4a32-9c54-ecfeb060a283" width="200" hight="150"/></br></br></br>
+  <img src="https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/e69d5b48-48b5-4fb3-bd7d-a10a1698713d" width="200" hight="150"/>
+  <img src="https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/a3f3fe72-f78a-4f3c-a1de-3da754d9ff4c" width="200" hight="150"/></br></br></br>
+  <img src="https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/05cc11d9-8c55-4b66-99a4-3a2840ce26fe" width="200" hight="150"/>
+  <img src="https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/749c95ef-5c23-48da-a58e-c080d5ca6946" width="200" hight="150"/></br></br></br>
+  <img src="https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/d61633a1-44ea-4fe3-afff-67ce7f8a6c1a" width="200" hight="150"/>
+  <img src="https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/d2041d89-ec53-4e94-bf2f-e513d422459c" width="200" hight="150"/></br></br></br>
+  <img src="https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/24d0721c-d4d2-4c8a-b654-03c495e26f29" width="200" hight="150"/>
+  <img src="https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/c43b4c6e-39bb-4eff-a429-72b54a6d9f2a" width="200" hight="150"/>
+</p>
 
-![WhatsApp Image 2024-02-11 at 7 48 45 PM](https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/de4e719a-7e50-46de-9beb-266e4660cdbe)
-![Screenshot_20240515-125335](https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/16c1bb61-9301-49d6-973b-bc45c708db4e)
-![Screenshot_20240515-125343](https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/8b998cf6-ec28-4ccc-8901-e7a000888605)
-![Screenshot_20240515-130823](https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/36dafb4d-ff85-4af4-9871-4fe739beafaa)
-![Screenshot_20240515-131053](https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/cb3dc3ac-6b71-4120-9885-315ec419461c)
-![Screenshot_20240515-131105](https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/ea88b7ed-458b-463d-86dc-f7bc46187d5f)
-![Screenshot_20240515-131116](https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/4dfd029f-dbc2-4eca-8629-1abdca2be5cd)
-![Screenshot_20240515-131123](https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/7fef19d9-ce10-4f2d-8ab0-fb7dafa7f056)
 
-![Screenshot_20240515-131143](https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/7105d48d-fb7e-4569-a979-172ab58b33fe)
-![Screenshot_20240515-131134](https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/2b7c1863-7b2c-4846-b512-16fb3950756e)
-![Screenshot_20240515-131152](https://github.com/Bharatkrsharma/Connect-social-app-/assets/112641547/6a61e010-0c22-4ed5-a848-b641ca0ce877)
+
 
