@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ).copyWith(
           navigationBarTheme: NavigationBarThemeData(
-            backgroundColor: Colors.blue,
+            backgroundColor: Colors.black,
             indicatorColor: Color(0xF8954CFF),
             labelBehavior: NavigationDestinationLabelBehavior.alwaysHide,
             labelTextStyle: MaterialStateProperty.resolveWith(
